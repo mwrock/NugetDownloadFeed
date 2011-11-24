@@ -5,6 +5,8 @@ Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "NugetDownloadFeed", "NugetD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetDownloadFeed.WebRole", "NugetDownloadFeed.Web\NugetDownloadFeed.WebRole.csproj", "{05E6B75E-C428-49B2-A710-B35E1BAB6BB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetDownloadCountFeed", "NugetDownloadCountFeed\NugetDownloadCountFeed.csproj", "{F5C9FC8A-4F7A-422E-879A-A3E00434EB3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{05E6B75E-C428-49B2-A710-B35E1BAB6BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05E6B75E-C428-49B2-A710-B35E1BAB6BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05E6B75E-C428-49B2-A710-B35E1BAB6BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C9FC8A-4F7A-422E-879A-A3E00434EB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C9FC8A-4F7A-422E-879A-A3E00434EB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C9FC8A-4F7A-422E-879A-A3E00434EB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C9FC8A-4F7A-422E-879A-A3E00434EB3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
